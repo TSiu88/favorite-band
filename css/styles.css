@@ -1,0 +1,28 @@
+.sidebar{
+  float: right;
+  font-size: 30px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  border-style: dashed;
+  border-width: 5px;
+}
+
+.intro{
+  text-align: center;
+}
+
+.leftpic{
+  float: left;
+}
+
+
+.rightpic{
+  float: right;
+}
+
+img{
+  width: 400px;
+}
+
+h1{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
