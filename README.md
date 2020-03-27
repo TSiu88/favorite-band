@@ -1,5 +1,4 @@
-# _[My First Webpage](https://github.com/TSiu88/favorite-band)_
-#### _[Live Site Link](https://tsiu88.github.io/favorite-band/)_
+# _[Favorite Band](https://github.com/TSiu88/favorite-band)_
 
 #### _HTML Element Practice, 01.08.2020_
 
